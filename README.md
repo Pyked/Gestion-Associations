@@ -17,7 +17,7 @@ Pour configurer localement le projet sur votre machine, suivez ces étapes :
 
 1. **Clônez le Répertoire**
    ```
-   git clone https://github.com/votre-utilisateur/gestion-association.git
+   git clone https://github.com/Pyked/Gestion-Associations.git
    ```
 
 2. **Installez les Dépendances**
